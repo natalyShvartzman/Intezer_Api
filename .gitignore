@@ -148,3 +148,5 @@ docker-compose.yml
 .idea
 /test.html
 .pytest_cache/
+
+bin
